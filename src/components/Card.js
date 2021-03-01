@@ -19,7 +19,7 @@ class Card extends React.Component {
             </div>
             <div className="col-6 Fitness-Card-Info">
               <h1>{title}</h1>
-              <p>{description}}</p>
+              <p>{description}</p>
             </div>
           </div>
         </div>
